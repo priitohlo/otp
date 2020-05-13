@@ -18,8 +18,8 @@
 package totp
 
 import (
-	"github.com/pquerna/otp"
-	"github.com/pquerna/otp/hotp"
+	"github.com/priitohlo/otp"
+	"github.com/priitohlo/otp/hotp"
 	"io"
 
 	"crypto/rand"
